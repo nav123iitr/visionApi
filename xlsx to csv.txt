@@ -1,0 +1,3 @@
+import pandas as pd 
+data_xls = pd.read_excel('SB-18-1692_VIKAS ENTERPRISES_CORNER STORE TECH. P.xls')
+data_xls.to_csv('csvfile.csv', encoding = 'utf-8', index = True)

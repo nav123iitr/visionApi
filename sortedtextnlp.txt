@@ -1,0 +1,39 @@
+name            : tablet			type            : CONSUMER_GOOD
+name	      : HDu Waming 		type	    : OTHER
+name            : IP				type            : OTHER
+name            : Colours			type            : OTHER
+name            : Soflet0			type            : OTHER
+name            : Tablets			type            : CONSUMER_GOOD
+name            : Dioxide IP Dosage		type            : OTHER
+name            : sunligat Warning		type            : OTHER
+name            : place			type            : LOCATION
+name            : Store			type            : LOCATION
+name            : R				type            : PERSON
+name            : presciption			type            : OTHER
+name            : KK				type            : OTHER
+name            : Iros Oxide Yellow		type            : ORGANIZATION
+name            : onysican			type            : PERSON
+name            : children			type            : PERSON
+name            : Iron Oxide Redand		type            : ORGANIZATION
+name            : Diclofenac Sodium		type            : OTHER
+name            : Gelatin Entobedt		type            : CONSUMER_GOOD
+name            : Hobli Universal Medicar		type            : ORGANIZATION
+name            : Nat				type            : PERSON
+name            : Iros Oxide Yellow		type            : OTHER
+name            : Af Hosur Road		type            : LOCATION
+name            : Mumbai			type            : LOCATION
+name            : Marketedb Novartis Irdio Limited	type            : ORGANIZATION
+name            : Sandoz			type            : ORGANIZATION
+name            : House Shivsagar Estate Worli	type            : LOCATION
+name            : Yadavanahali			type            : OTHER
+name            : Anekal Taluk Bengalore		type            : LOCATION
+name            : temperature			type            : OTHER
+name            : trademark			type            : OTHER
+name            : Solby			type            : PERSON
+name            : Tablets			type            : CONSUMER_GOOD
+name            : oasS Fegistered		type            : PERSON
+name            : Practitioneronlt Mf		type            : ORGANIZATION
+name            : Geltec Pr imited Sr.		type            : ORGANIZATION
+name            : onysican			type            : PERSON
+name            : children			type            : PERSON
+name            : temperature			type            : OTHER
